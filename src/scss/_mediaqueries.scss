@@ -1,0 +1,20 @@
+@use "layout";
+
+@media screen and (max-width: 900px) {
+
+    /*Döljer alla länkar i menyn förutom den första*/
+    .topnav a:not(:first-child) {
+        display: none;
+    }
+
+    /*Sätter menyikonen som synlig och placerar den till höger*/
+    .icon {
+        float: right;
+        display: block;
+        border-style: none;
+        color: layout.$link-primary;
+        background-color: layout.$orange-color;
+        font-size: 2.2em;
+        padding: 10px 12px;
+    }
+}

@@ -11,6 +11,10 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.11.0",
-    "parcel": "^2.11.0"
+    "parcel": "^2.11.0",
+    "sharp": "^0.31.3"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
   }
 }

@@ -9,6 +9,46 @@
     <script src="js/main.js" type="module"></script>
     <script src="https://kit.fontawesome.com/df020c5b10.js" crossorigin="anonymous"></script>
 </head>
+
 <body>
-    
+    <header>
+        <div class="topnav" id="myTopnav">
+            <a href="index.html" class="active">Logotyp</a>
+            <a href="#">Menyval 5</a>
+            <a href="#">Menyval 4</a>
+            <a href="#">Menyval 3</a>
+            <a href="sass.html">SASS</a>
+            <a href="index.html">Startsida</a>
+            <button class="icon" id="open-menu">
+                <span><i class="fa-solid fa-bars"></i></span>
+            </button>
+        </div>
+
+        <div class="sidenav" id="mySidenav">
+            <button class="icon" id="close-menu">
+                <span><i class="fa-solid fa-xmark"></i></span>
+            </button>
+            <a href="index.html">Startsida</a>
+            <a href="sass.html">SASS</a>
+            <a href="#">Menyval 3</a>
+            <a href="#">Menyval 4</a>
+            <a href="#">Menyval 5</a>
+        </div>
+    </header>
+
+    <div id="picture-grid">
+        <picture id="bild1">
+            <source srcset="images/7.jpg?as=avif&height=500" type="image/avif">
+            <source srcset="images/7.jpg?as=webp&height=500" type="image/webp">
+            <source srcset="images/7.jpg?height=500" type="image/jpg">
+            <img src="images/7.jpg?height=500" alt="Bild på person i solnedgången">
+        </picture>
+        <picture id="bild2">
+            <source srcset="images/Vandring2.jpg?as=avif&height=500" type="image/avif">
+            <source srcset="images/Vandring2.jpg?as=webp&height=500" type="image/webp">
+            <source srcset="images/Vandring2.jpg?height=500" type="image/jpg">
+            <img src="images/Vandring2.jpg?height=500" alt="Bild på Anton iklädd flytväst som ror en eka">
+        </picture>
+    </div>
+
 </body>
