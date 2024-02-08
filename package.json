@@ -1,0 +1,16 @@
+{
+  "name": "uppgift3",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Anton Eriksson",
+  "license": "ISC",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.11.0",
+    "parcel": "^2.11.0"
+  }
+}
