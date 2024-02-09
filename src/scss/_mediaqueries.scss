@@ -17,6 +17,22 @@
         font-size: 2.2em;
         padding: 10px 12px;
     }
+
+    #picture-grid {
+        width: 80%;
+    }
+
+}
+
+@media screen and (max-width: 400px) {
+
+    #picture-grid {
+        width: 90%;
+    }
+
+    footer {
+        font-size: 0.8em;
+    }
 }
 
 @media (prefers-color-scheme: dark) {

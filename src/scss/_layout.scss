@@ -24,7 +24,7 @@ body {
 .topnav {
     background-color: $orange-color;
     overflow: hidden;
-    width: 100vw;
+    width: 100%;
     z-index: 1;
     @include component.boxshadow();
 
@@ -105,9 +105,28 @@ body {
     }
 }
 
-%brödtext {
-    width: 80%;
-    color: darken($color: $orange-color, $amount: 50%);
+footer {
+    background-color: $orange-color;
+    min-height: 20vh;
+}
+
+footer p {
+    color: $link-primary;
+    padding: 30px;
+    padding-bottom: 0;
+    text-align: center;
+    line-height: 1.6em;
+}
+
+footer a {
+    display: block;
+    font-size: 1em;
+    color: $link-primary;
+    padding: 10px;
+    padding-top: 0;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 #picture-grid {
@@ -115,7 +134,9 @@ body {
     grid-template-columns: 100% 50%;
     grid-template-rows: auto;
     width: 60%;
+    max-width: 500px;
     margin: auto;
+    margin-top: 20px;
     @include component.boxshadow();
 
     .överskrift {
@@ -166,7 +187,5 @@ body {
             @include component.bilder();
         }
     }
-
-
 
 }
