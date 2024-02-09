@@ -70,4 +70,32 @@
             color: layout.$link-primary-darkmode;
         }
     }
+
+    footer {
+        background-color: layout.$orange-color-darkmode;
+    }
+
+    footer p {
+        color: layout.$link-primary-darkmode;
+    }
+
+    footer a {
+        display: block;
+        font-size: 1em;
+        color: layout.$link-primary;
+        padding: 10px;
+        padding-top: 0;
+        text-align: center;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    #picture-grid {
+        background-color: darken($color: layout.$background-color, $amount: 20%);
+
+        .överskrift {
+            color: darken($color: layout.$orange-color, $amount: 10%);
+        }
+
+    }
 }
