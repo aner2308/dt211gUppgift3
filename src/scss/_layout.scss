@@ -42,7 +42,59 @@ body {
     /* Byter utseende på länkarna när man håller musen över dom */
     a:hover {
         background-color: $link-hover-bg;
-        color: $link-hover;
+        color: $orange-color;
+        cursor: pointer;
+    }
+
+    /* Döljer länken till den utfällbara menyn på stor skärmbredd */
+    a.active {
+        background-color: $link-hover;
+        color: $orange-color;
+    }
+}
+
+/* Döljer länken till den utfällbara menyn på stor skärmbredd */
+.icon {
+    display: none;
+    padding: 30px 30px;
+}
+
+/*Ger samma hovereffekt och active effekt som resterande länkar*/
+.icon:hover {
+    background-color: $link-hover-bg;
+    color: $orange-color;
+    cursor: pointer;
+}
+
+.icon.active {
+    background-color: $link-hover;
+    color: $orange-color;
+}
+
+.sidenav {
+    z-index: 2;
+    background-color: $orange-color;
+    position: fixed;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 400px;
+    max-width: 100vw;
+    display: none;
+    @include component.boxshadow();
+
+    a {
+        display: block;
+        color: $link-primary;
+        text-align: left;
+        padding: 30px 30px;
+        text-decoration: none;
+        font-size: 1.6em;
+    }
+
+    a:hover {
+        background-color: $link-hover-bg;
+        color: $orange-color;
         cursor: pointer;
     }
 
@@ -53,31 +105,9 @@ body {
     }
 }
 
-/* Döljer länken till den utfällbara menyn på stor skärmbredd */
-.icon {
-    display: none;
-}
-
-.sidenav {
-    z-index: 2;
-    background-color: $orange-color;
-    position: absolute;
-    right: 0;
-    top: 0;
-    height: 100vh;
-    width: 400px;
-    max-width: 100vw;
-    display: none;
-    @include component.boxshadow();
-
-    a {
-        display: block;
-        color: $link-primary;
-        text-align: left;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-size: 1.8em;
-    }
+%brödtext {
+    width: 80%;
+    color: darken($color: $orange-color, $amount: 50%);
 }
 
 #picture-grid {
@@ -88,8 +118,41 @@ body {
     margin: auto;
     @include component.boxshadow();
 
-    #bild1 {
+    .överskrift {
         grid-area: 1 / 1 / 2 / 2;
+        color: lighten($color: $orange-color, $amount: 10%);
+        text-shadow: 1px 1px 1px #33333372;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    %brödtext {
+        width: 80%;
+        color: darken($color: $orange-color, $amount: 10%);
+        margin: 10%;
+        margin-bottom: 0;
+    }
+
+    #brödtext1 {
+        grid-area: 2 / 1 / 3 / 2;
+        @extend %brödtext;
+    }
+
+    #brödtext2 {
+        grid-area: 4 / 1 / 5 / 2;
+        @extend %brödtext;
+        margin-top: 0;
+    }
+
+    #brödtext3 {
+        grid-area: 7 / 1 / 8 / 2;
+        @extend %brödtext;
+        margin-top: 0;
+        margin-bottom: 10%;
+    }
+
+    #bild1 {
+        grid-area: 3 / 1 / 4 / 2;
 
         img {
             @include component.bilder();
@@ -97,7 +160,7 @@ body {
     }
 
     #bild2 {
-        grid-area: 2 / 1 / 3 / 2;
+        grid-area: 5 / 1 / 6 / 2;
 
         img {
             @include component.bilder();
