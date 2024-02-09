@@ -3,7 +3,7 @@
 @media screen and (max-width: 900px) {
 
     /*Döljer alla länkar i menyn förutom den första*/
-    .topnav a:not(:first-child) {
+    .topnav a {
         display: none;
     }
 
@@ -16,5 +16,42 @@
         background-color: layout.$orange-color;
         font-size: 2.2em;
         padding: 10px 12px;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: layout.$background-color-darkmode;
+    }
+
+    /* Bakgrund till navigatinsfältet */
+    .topnav {
+        background-color: layout.$orange-color-darkmode;
+
+
+        /* Styla länkarna i navigationsfältet */
+        a {
+            color: layout.$link-primary-darkmode;
+        }
+
+        /* Byter utseende på länkarna när man håller musen över dom */
+        a:hover {
+            background-color: layout.$link-hover-bg-darkmode;
+            color: layout.$link-hover-darkmode;
+        }
+
+        /* Döljer länken till den utfällbara menyn på stor skärmbredd */
+        a.active {
+            background-color: layout.$link-hover-darkmode;
+            color: layout.$link-hover-bg-darkmode;
+        }
+    }
+
+    .sidenav {
+        background-color: layout.$orange-color-darkmode;
+
+        a {
+            color: layout.$link-primary-darkmode;
+        }
     }
 }
