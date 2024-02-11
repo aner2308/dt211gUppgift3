@@ -141,6 +141,7 @@ footer a {
 
     .överskrift {
         grid-area: 1 / 1 / 2 / 2;
+        @include component.rubrikstorlek(2);
         color: lighten($color: $orange-color, $amount: 10%);
         text-shadow: 1px 1px 1px #33333372;
         text-align: center;
@@ -161,12 +162,14 @@ footer a {
 
     #brödtext2 {
         grid-area: 4 / 1 / 5 / 2;
+        @include component.rubrikstorlek(3);
         @extend %brödtext;
         margin-top: 0;
     }
 
     #brödtext3 {
         grid-area: 7 / 1 / 8 / 2;
+        @include component.rubrikstorlek(3);
         @extend %brödtext;
         margin-top: 0;
         margin-bottom: 10%;
