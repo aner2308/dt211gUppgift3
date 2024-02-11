@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="scss/main.scss">
+    <title>Startsida</title>
+    <script src="js/main.js" type="module"></script>
+    <script src="https://kit.fontawesome.com/df020c5b10.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header>
+        <div class="topnav" id="myTopnav">
+            <a href="#">Menyval 5</a>
+            <a href="#">Menyval 4</a>
+            <a href="#">Menyval 3</a>
+            <a href="sass.html">SASS</a>
+            <a href="index.html">Startsida</a>
+            <button class="icon" id="open-menu">
+                <span><i class="fa-solid fa-bars"></i></span>
+            </button>
+        </div>
+
+        <div class="sidenav" id="mySidenav">
+            <button class="icon" id="close-menu">
+                <span><i class="fa-solid fa-xmark"></i></span>
+            </button>
+            <a href="index.html">Startsida</a>
+            <a href="sass.html">SASS</a>
+            <a href="#">Menyval 3</a>
+            <a href="#">Menyval 4</a>
+            <a href="#">Menyval 5</a>
+        </div>
+    </header>
+
+    <div id="picture-grid">
+        <h1 class="överskrift">SASS</h1>
+        <p id="brödtext1">Innan vi började med uppgiften så förstod jag inte riktigt fördelarna med att använda ett nytt
+            program. Det kändes mer naturligt att fortsätta jobba med CSS som vi nu har lärt oss. Men eftersom SASS
+            används av så många programmerare i världen så inser jag såklart att det måste finnas fördelar.
+            <br><br>
+            Jag installerade SASS i terminalen samtidigt som parcel. Efter att ha tittat på Malins föreläsning så gav
+            jag
+            mig på att skapa några partials. Partials fungerar som separata stildokument som kan prata med varandra.
+            Genom att ha separata filer för layouts, mediaqueries, komponenter med mera så blev det mycket lättare att
+            hitta den kod man vill åt. I mina html-dokument angav jag min fil main.sass som stilmall. I main.sass-
+            dokumentet så la jag in sammarbeten till de andra .sass- dokumenten så att all min kod följer med och läses
+            in på min webbsida.
+            <br><br>
+            Filen layout.sass användes till att förändra utseende på olika element. Det är allt från texter, grids,
+            bilder med mera. I detta dokument la jag också till arrays för alla mina färger till mitt färgtema. I
+            stället för att ange samma färg till alla objekt som ska vara orangea så angav jag arrayen $orange-color.
+            Detta var en stor hjälp senare när jag ville tweaka färgen en aning. Det räcker då att ändra på färgvärdet i
+            arrayen, så ändras också färgen på alla objekt som den berör.
+            <br><br>
+            
+        </p>
+        <picture id="bild3">
+            <source srcset="images/SASS.png?as=avif&height=400" type="image/avif">
+            <source srcset="images/SASS.png?as=webp&height=400" type="image/webp">
+            <source srcset="images/SASS.png?height=400" type="image/jpg">
+            <img src="images/SASS.png" alt="Bild på logotypen för SASS.">
+        </picture>
+        <p id="brödtext4"></p>
+    </div>
+    <footer>
+        <p>Författare: Anton Eriksson</p>
+        <a href="mailto:aner2308@student.miun.se">
+            <span><i class="fa-regular fa-envelope"></i></span>
+            <span>aner2308@student.miun.se</span>
+        </a>
+    </footer>
+
+</body>

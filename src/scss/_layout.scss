@@ -131,7 +131,7 @@ footer a {
 
 #picture-grid {
     display: grid;
-    grid-template-columns: 100% 50%;
+    grid-template-columns: 100%;
     grid-template-rows: auto;
     width: 60%;
     max-width: 500px;
@@ -175,6 +175,12 @@ footer a {
         margin-bottom: 10%;
     }
 
+    #brödtext4 {
+        grid-area: 5 / 1 / 6 / 2;
+        @extend %brödtext;
+        margin-top: 0;
+    }
+
     #bild1 {
         grid-area: 3 / 1 / 4 / 2;
 
@@ -188,6 +194,17 @@ footer a {
 
         img {
             @include component.bilder();
+        }
+    }
+
+    #bild3 {
+        grid-area: 4 / 1 / 5 / 2;
+
+        img {
+            @include component.bilder();
+            @include component.rundbild("rund");
+            margin-bottom: 30px;
+            margin-top: 30px;
         }
     }
 

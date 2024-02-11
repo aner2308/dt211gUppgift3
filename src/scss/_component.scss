@@ -25,6 +25,12 @@
     }
 }
 
+@mixin rundbild ($cirkel) {
+    @if $cirkel =="rund" {
+        border-radius: 50%;
+    }
+}
+
 @mixin boxshadow() {
     box-shadow: 2px 2px 8px #333;
 }
