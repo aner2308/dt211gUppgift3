@@ -179,6 +179,7 @@ footer a {
         grid-area: 5 / 1 / 6 / 2;
         @extend %brödtext;
         margin-top: 0;
+        margin-bottom: 100px;
     }
 
     #bild1 {

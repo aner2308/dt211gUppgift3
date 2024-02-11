@@ -1,4 +1,4 @@
-7250
+7267
 73C:\Users\eriks\Desktop\Uppgift3\node_modules\posthtml-render\package.json133518372259213632 0
 44C:\Users\eriks\Desktop\Uppgift3\package.json133518423312686489 0
 97C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\vips\VImage8.h133117882010000000 0
@@ -6,7 +6,7 @@
 65C:\Users\eriks\Desktop\Uppgift3\node_modules\simple-get\README.md133518423270342533 0
 82C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\core\test\Environment.test.js133518372273652313 0
 94C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\runtime-js\src\helpers\node\css-loader.js133518372265973217 0
-42C:\Users\eriks\Desktop\Uppgift3\src\images133518425347107380 1
+42C:\Users\eriks\Desktop\Uppgift3\src\images133521180104874464 1
 92C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\transformer-posthtml\lib\loadPlugins.js133518372258556605 0
 60C:\Users\eriks\Desktop\Uppgift3\node_modules\color\README.md133518423270342533 0
 85C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\build\Release\sharp-win32-x64.node133161123960000000 0
@@ -26,7 +26,7 @@
 74C:\Users\eriks\Desktop\Uppgift3\node_modules\regenerator-runtime\README.md133518372260873560 0
 58C:\Users\eriks\Desktop\Uppgift3\node_modules\source-map-js133518372266637319 1
 65C:\Users\eriks\Desktop\Uppgift3\node_modules\posthtml-render\dist133518372261739637 1
-36C:\Users\eriks\Desktop\Uppgift3\dist133519446276321459 1
+36C:\Users\eriks\Desktop\Uppgift3\dist133521199961688178 1
 82C:\Users\eriks\Desktop\Uppgift3\node_modules\.bin\node-gyp-build-optional-packages133518372385322785 0
 99C:\Users\eriks\Desktop\Uppgift3\node_modules\simple-swizzle\node_modules\is-arrayish\yarn-error.log133518423270697209 0
 54C:\Users\eriks\Desktop\Uppgift3\node_modules\@mischnic133518372239747192 1
@@ -79,7 +79,7 @@
 49C:\Users\eriks\Desktop\Uppgift3\node_modules\.bin133518423272108689 1
 84C:\Users\eriks\Desktop\Uppgift3\node_modules\type-fest\source\async-return-type.d.ts133518372260482504 0
 105C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\features\img-naturalwidth-naturalheight.js133518372281805597 0
-46C:\Users\eriks\Desktop\Uppgift3\src\index.html133519436763710877 0
+46C:\Users\eriks\Desktop\Uppgift3\src\index.html133521138701150670 0
 71C:\Users\eriks\Desktop\Uppgift3\node_modules\sass\types\value\list.d.ts133518376808944144 0
 49C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc133518423312592507 1
 81C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\features\tls1-1.js133518372287633987 0
@@ -108,7 +108,7 @@
 93C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\cjs\_initializer_warning_helper.cjs133518372271637175 0
 50C:\Users\eriks\Desktop\Uppgift3\src\scss\main.scss133518402984876018 0
 93C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\features\css-featurequeries.js133518372277054460 0
-45C:\Users\eriks\Desktop\Uppgift3\src\sass.html133518416551838185 0
+45C:\Users\eriks\Desktop\Uppgift3\src\sass.html133521195207860607 0
 93C:\Users\eriks\Desktop\Uppgift3\node_modules\htmlnano\lib\modules\sortAttributesWithLists.mjs133518372275054853 0
 90C:\Users\eriks\Desktop\Uppgift3\node_modules\posthtml\node_modules\posthtml-parser\license133518372257742693 0
 73C:\Users\eriks\Desktop\Uppgift3\node_modules\source-map\lib\base64-vlq.js133518372261886687 0
@@ -117,11 +117,11 @@
 111C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gsocketclient.h133117882010000000 0
 40C:\Users\eriks\Desktop\Uppgift3\src\scss133518402800630658 1
 51C:\Users\eriks\Desktop\Uppgift3\src\scss\_base.scss133518381292403798 0
-56C:\Users\eriks\Desktop\Uppgift3\src\scss\_component.scss133518511232408768 0
+56C:\Users\eriks\Desktop\Uppgift3\src\scss\_component.scss133521161605564820 0
 105C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gsocket.h133117882010000000 0
 61C:\Users\eriks\Desktop\Uppgift3\node_modules\get-port\license133518372259985004 0
 64C:\Users\eriks\Desktop\Uppgift3\node_modules\js-yaml\lib\type.js133518372269570916 0
-53C:\Users\eriks\Desktop\Uppgift3\src\scss\_layout.scss133519446088253864 0
+53C:\Users\eriks\Desktop\Uppgift3\src\scss\_layout.scss133521195428255203 0
 82C:\Users\eriks\Desktop\Uppgift3\node_modules\type-fest\source\set-return-type.d.ts133518372269887564 0
 76C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\regions\EE.js133518372279903444 0
 98C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\src\_class_static_private_method_get.mjs133518372280723591 0
@@ -137,7 +137,7 @@
 109C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc\orcfunctions.h133117882010000000 0
 84C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\_\_tagged_template_literal133518372279638626 1
 77C:\Users\eriks\Desktop\Uppgift3\node_modules\type-fest\source\promisable.d.ts133518372269057051 0
-59C:\Users\eriks\Desktop\Uppgift3\src\scss\_mediaqueries.scss133519439726503111 0
+59C:\Users\eriks\Desktop\Uppgift3\src\scss\_mediaqueries.scss133521199143503897 0
 74C:\Users\eriks\Desktop\Uppgift3\node_modules\utility-types\dist\index.d.ts133518372267055696 0
 91C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\core\test\fixtures\parcel\package.json133518372278304211 0
 81C:\Users\eriks\Desktop\Uppgift3\node_modules\msgpackr\dist\unpack-no-eval.cjs.map133518372271903293 0
@@ -169,6 +169,14 @@
 48C:\Users\eriks\Desktop\Uppgift3\src\images\8.jpg133516768486042977 0
 71C:\Users\eriks\Desktop\Uppgift3\node_modules\css-tree\cjs\syntax\pseudo133518372273223902 1
 57C:\Users\eriks\Desktop\Uppgift3\node_modules\fs-constants133518423270514859 1
+67C:\Users\eriks\Desktop\Uppgift3\node_modules\emoji-regex\index.d.ts133518372258130823 0
+83C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\transformer-html\lib\inline.js133518372262127146 0
+58C:\Users\eriks\Desktop\Uppgift3\node_modules\color-convert133518372262127146 1
+87C:\Users\eriks\Desktop\Uppgift3\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in133518372275799350 0
+63C:\Users\eriks\Desktop\Uppgift3\node_modules\term-size\index.js133518372264635024 0
+51C:\Users\eriks\Desktop\Uppgift3\src\images\SASS.png133521180029793771 0
+72C:\Users\eriks\Desktop\Uppgift3\node_modules\entities\lib\index.d.ts.map133518372267553639 0
+76C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\regions\SY.js133518372287220609 0
 56C:\Users\eriks\Desktop\Uppgift3\src\images\Vandring2.jpg133425346440240160 0
 80C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\build\Release\libvips-cpp.dll133161123960000000 0
 98C:\Users\eriks\Desktop\Uppgift3\node_modules\css-select\node_modules\domutils\lib\esm\traversal.js133518372266565663 0
@@ -213,7 +221,7 @@
 63C:\Users\eriks\Desktop\Uppgift3\node_modules\posthtml\readme.md133518372260887694 0
 47C:\Users\eriks\Desktop\Uppgift3\node_modules\bl133518423270939285 1
 106C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\goption.h133117882010000000 0
-58C:\Users\eriks\Desktop\Uppgift3\dist\index.18dbc454.js.map133519444994518550 0
+58C:\Users\eriks\Desktop\Uppgift3\dist\index.18dbc454.js.map133521194954389106 0
 106C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\package.json133518372276389488 0
 104C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\optimizer-svgo\node_modules\css-select\package.json133518372265973217 0
 69C:\Users\eriks\Desktop\Uppgift3\node_modules\mimic-response\readme.md133518423270342533 0
@@ -292,10 +300,6 @@
 77C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\core\lib\ParcelConfig.js133518372275470962 0
 97C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\_\_interop_require_default\package.json133518372279057237 0
 53C:\Users\eriks\Desktop\Uppgift3\node_modules\chokidar133518376800122805 1
-91C:\Users\eriks\Desktop\Uppgift3\node_modules\csso\node_modules\css-tree\cjs\lexer\trace.cjs133518372275492537 0
-64C:\Users\eriks\Desktop\Uppgift3\node_modules\css-tree\lib\walker133518372277985555 1
-112C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\t1tables.h133117882010000000 0
-56C:\Users\eriks\Desktop\Uppgift3\node_modules\deep-extend133518423270637858 1
 77C:\Users\eriks\Desktop\Uppgift3\node_modules\svgo\plugins\convertTransform.js133518372271903293 0
 100C:\Users\eriks\Desktop\Uppgift3\node_modules\css-select\node_modules\domutils\lib\esm\feeds.d.ts.map133518372267553639 0
 68C:\Users\eriks\Desktop\Uppgift3\node_modules\utility-types\README.md133518372265553449 0
@@ -313,9 +317,6 @@
 83C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\core\src\public\Environment.js133518372273571048 0
 71C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\workers\index.d.ts133518372271809131 0
 50C:\Users\eriks\Desktop\Uppgift3\node_modules\color133518423270342533 1
-67C:\Users\eriks\Desktop\Uppgift3\node_modules\emoji-regex\index.d.ts133518372258130823 0
-83C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\transformer-html\lib\inline.js133518372262127146 0
-58C:\Users\eriks\Desktop\Uppgift3\node_modules\color-convert133518372262127146 1
 93C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\esm\_check_private_redeclaration.js133518372275071006 0
 83C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\features\fontface.js133518372280798682 0
 55C:\Users\eriks\Desktop\Uppgift3\node_modules\color-name133518372259636859 1
@@ -345,6 +346,10 @@
 80C:\Users\eriks\Desktop\Uppgift3\node_modules\dom-serializer\lib\esm\package.json133518372262295213 0
 74C:\Users\eriks\Desktop\Uppgift3\node_modules\type-fest\source\mutable.d.ts133518372268313346 0
 64C:\Users\eriks\Desktop\Uppgift3\node_modules\decompress-response133518423270528696 1
+91C:\Users\eriks\Desktop\Uppgift3\node_modules\csso\node_modules\css-tree\cjs\lexer\trace.cjs133518372275492537 0
+64C:\Users\eriks\Desktop\Uppgift3\node_modules\css-tree\lib\walker133518372277985555 1
+112C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\t1tables.h133117882010000000 0
+56C:\Users\eriks\Desktop\Uppgift3\node_modules\deep-extend133518423270637858 1
 109C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\otsvg.h133117882010000000 0
 74C:\Users\eriks\Desktop\Uppgift3\node_modules\svgo\plugins\removeViewBox.js133518372274140224 0
 56C:\Users\eriks\Desktop\Uppgift3\node_modules\detect-libc133518372261401347 1
@@ -615,6 +620,7 @@
 114C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\dir.js133518372271137206 0
 53C:\Users\eriks\Desktop\Uppgift3\node_modules\minimist133518423271534880 1
 76C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\regions\DK.js133518372279562050 0
+55C:\Users\eriks\Desktop\Uppgift3\dist\SASS.7438962e.webp133521199953838257 0
 109C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc\orcbytecodes.h133117882010000000 0
 102C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\runtime-js\src\helpers\browser\import-polyfill.js133518372268470692 0
 71C:\Users\eriks\Desktop\Uppgift3\node_modules\rc\test\nested-env-vars.js133518423270939285 0
@@ -902,6 +908,7 @@
 80C:\Users\eriks\Desktop\Uppgift3\node_modules\css-tree\cjs\syntax\node\Atrule.cjs133518372260970883 0
 105C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-fwd.h133117882010000000 0
 101C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf.h133117882010000000 0
+55C:\Users\eriks\Desktop\Uppgift3\dist\SASS.aabc2d3d.avif133521181345135713 0
 71C:\Users\eriks\Desktop\Uppgift3\node_modules\picomatch\lib\picomatch.js133518372261226927 0
 100C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc\orc.h133117882010000000 0
 71C:\Users\eriks\Desktop\Uppgift3\node_modules\nth-check\lib\parse.js.map133518372267493530 0
@@ -1115,6 +1122,7 @@
 99C:\Users\eriks\Desktop\Uppgift3\node_modules\css-select\node_modules\domutils\lib\querying.d.ts.map133518372270493202 0
 65C:\Users\eriks\Desktop\Uppgift3\node_modules\source-map\README.md133518372258485087 0
 111C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gstringchunk.h133117882010000000 0
+59C:\Users\eriks\Desktop\Uppgift3\dist\index.0cd05ee4.css.map133521199961688178 0
 127C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-last-of-type.js133518372274570714 0
 67C:\Users\eriks\Desktop\Uppgift3\node_modules\lmdb\dependencies\lmdb133518372260139882 1
 93C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\packager-js\src\ScopeHoistingPackager.js133518372267140622 0
@@ -1246,8 +1254,6 @@
 73C:\Users\eriks\Desktop\Uppgift3\node_modules\timsort\build\timsort.min.js133518372262644625 0
 65C:\Users\eriks\Desktop\Uppgift3\node_modules\term-size\index.d.ts133518372265553449 0
 65C:\Users\eriks\Desktop\Uppgift3\node_modules\csso\dist\version.js133518372274729608 0
-87C:\Users\eriks\Desktop\Uppgift3\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in133518372275799350 0
-63C:\Users\eriks\Desktop\Uppgift3\node_modules\term-size\index.js133518372264635024 0
 62C:\Users\eriks\Desktop\Uppgift3\node_modules\term-size\license133518372259483462 0
 67C:\Users\eriks\Desktop\Uppgift3\node_modules\term-size\package.json133518372264954098 0
 105C:\Users\eriks\Desktop\Uppgift3\node_modules\csso\node_modules\css-tree\cjs\utils\create-custom-error.cjs133518372267390106 0
@@ -1567,10 +1573,6 @@
 66C:\Users\eriks\Desktop\Uppgift3\node_modules\csso\lib\clean\Raw.js133518372274140224 0
 66C:\Users\eriks\Desktop\Uppgift3\node_modules\strip-ansi\index.d.ts133518372260633566 0
 126C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\gdk-pixbuf-2.0\gdk-pixbuf\gdk-pixbuf-core.h133117882010000000 0
-108C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gobject\gboxed.h133117882010000000 0
-100C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\runtime-js\lib\helpers\browser\esm-js-loader.js133518372266299416 0
-82C:\Users\eriks\Desktop\Uppgift3\node_modules\source-map\dist\source-map.min.js.map133518372269212249 0
-95C:\Users\eriks\Desktop\Uppgift3\node_modules\css-select\node_modules\entities\lib\encode.js.map133518372270984784 0
 64C:\Users\eriks\Desktop\Uppgift3\node_modules\strip-ansi\index.js133518372258130823 0
 110C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\xmlunicode.h133117882010000000 0
 85C:\Users\eriks\Desktop\Uppgift3\node_modules\css-tree\cjs\definition-syntax\index.cjs133518372272637476 0
@@ -1631,6 +1633,10 @@
 109C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\xmlmodule.h133117882010000000 0
 115C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-multiple133518372266369518 0
 67C:\Users\eriks\Desktop\Uppgift3\node_modules\source-map\lib\util.js133518372265887137 0
+108C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gobject\gboxed.h133117882010000000 0
+100C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\runtime-js\lib\helpers\browser\esm-js-loader.js133518372266299416 0
+82C:\Users\eriks\Desktop\Uppgift3\node_modules\source-map\dist\source-map.min.js.map133518372269212249 0
+95C:\Users\eriks\Desktop\Uppgift3\node_modules\css-select\node_modules\entities\lib\encode.js.map133518372270984784 0
 97C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\features\css-media-range-syntax.js133518372277799068 0
 65C:\Users\eriks\Desktop\Uppgift3\node_modules\json5\lib\index.d.ts133518372267055696 0
 81C:\Users\eriks\Desktop\Uppgift3\node_modules\csso\cjs\replace\property\border.cjs133518372266048331 0
@@ -2532,7 +2538,7 @@
 108C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gdbusproxy.h133117882010000000 0
 114C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gdebugcontroller.h133117882010000000 0
 94C:\Users\eriks\Desktop\Uppgift3\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest5.c133518372273652313 0
-53C:\Users\eriks\Desktop\Uppgift3\dist\sass.1ca36dc7.js133519444994435587 0
+53C:\Users\eriks\Desktop\Uppgift3\dist\sass.1ca36dc7.js133521143498673674 0
 97C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\LICENSE133518372257742693 0
 68C:\Users\eriks\Desktop\Uppgift3\node_modules\normalize.css\README.md133518385890861386 0
 118C:\Users\eriks\Desktop\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gdebugcontrollerdbus.h133117882010000000 0
@@ -4031,8 +4037,6 @@
 73C:\Users\eriks\Desktop\Uppgift3\node_modules\entities\lib\encode.d.ts.map133518372267320675 0
 106C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\package-manager\test\validateModuleSpecifiers.test.js133518372269655517 0
 67C:\Users\eriks\Desktop\Uppgift3\node_modules\entities\lib\encode.js133518372263636575 0
-72C:\Users\eriks\Desktop\Uppgift3\node_modules\entities\lib\index.d.ts.map133518372267553639 0
-76C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\regions\SY.js133518372287220609 0
 66C:\Users\eriks\Desktop\Uppgift3\node_modules\entities\lib\index.js133518372264136772 0
 76C:\Users\eriks\Desktop\Uppgift3\node_modules\entities\lib\maps\entities.json133518372264715992 0
 89C:\Users\eriks\Desktop\Uppgift3\node_modules\entities\lib\generated\decode-data-html.d.ts133518372268313346 0
@@ -5108,9 +5112,6 @@
 76C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\regions\AI.js133518372266129394 0
 106C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\index.js133518372259558713 0
 80C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\regions\alt-na.js133518372267710227 0
-76C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\core\src\BundleGraph.js133518372271137206 0
-89C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\optimizer-htmlnano\node_modules\.bin133518372385156919 1
-97C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\features\css-content-visibility.js133518372276709475 0
 76C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\regions\AU.js133518372270637398 0
 85C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\features\matchmedia.js133518372283388007 0
 76C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\regions\AZ.js133518372271557151 0
@@ -5297,6 +5298,9 @@
 93C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\features\css-color-function.js133518372276553210 0
 94C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\features\css-conic-gradients.js133518372276553210 0
 90C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\features\css-containment.js133518372276709475 0
+76C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\core\src\BundleGraph.js133518372271137206 0
+89C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\optimizer-htmlnano\node_modules\.bin133518372385156919 1
+97C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\features\css-content-visibility.js133518372276709475 0
 87C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\features\css-counters.js133518372276709475 0
 90C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\features\css-crisp-edges.js133518372276709475 0
 89C:\Users\eriks\Desktop\Uppgift3\node_modules\caniuse-lite\data\features\css-cross-fade.js133518372276709475 0
@@ -5747,6 +5751,7 @@
 66C:\Users\eriks\Desktop\Uppgift3\node_modules\argparse\package.json133518372262486178 0
 67C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\counter\README.md133518372259382907 0
 63C:\Users\eriks\Desktop\Uppgift3\node_modules\argparse\README.md133518372263636575 0
+55C:\Users\eriks\Desktop\Uppgift3\dist\index.0cd05ee4.css133521199961602115 0
 64C:\Users\eriks\Desktop\Uppgift3\node_modules\argparse\lib\sub.js133518372260848076 0
 69C:\Users\eriks\Desktop\Uppgift3\node_modules\argparse\lib\textwrap.js133518372261739637 0
 64C:\Users\eriks\Desktop\Uppgift3\node_modules\anymatch\index.d.ts133518376800429337 0
@@ -5922,6 +5927,7 @@
 105C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\_\_class_private_field_destructure\package.json133518372278220717 0
 104C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\_\_class_extract_field_descriptor\package.json133518372278150441 0
 107C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\_\_class_check_private_static_access\package.json133518372278070057 0
+55C:\Users\eriks\Desktop\Uppgift3\dist\SASS.64900588.avif133521199953886468 0
 90C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\_\_class_call_check\package.json133518372278070057 0
 111C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupIDs.js133518372265137390 0
 100C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\_\_class_apply_descriptor_set\package.json133518372277985555 0
@@ -6095,7 +6101,7 @@
 93C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\cjs\_class_apply_descriptor_set.cjs133518372266637319 0
 96C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\cjs\_class_apply_descriptor_update.cjs133518372266900177 0
 100C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\cjs\_class_check_private_static_access.cjs133518372267390106 0
-55C:\Users\eriks\Desktop\Uppgift3\dist\index.b10d73a7.css133519444994674813 0
+55C:\Users\eriks\Desktop\Uppgift3\dist\index.b10d73a7.css133521199143834835 0
 97C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\cjs\_class_extract_field_descriptor.cjs133518372267710227 0
 87C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\cjs\_class_name_tdz_error.cjs133518372268137513 0
 98C:\Users\eriks\Desktop\Uppgift3\node_modules\@swc\helpers\cjs\_class_private_field_destructure.cjs133518372268313346 0
@@ -6518,6 +6524,7 @@
 74C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\packager-html\LICENSE133518372257654646 0
 79C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\packager-html\package.json133518372260558479 0
 86C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\packager-html\src\HTMLPackager.js133518372259731058 0
+55C:\Users\eriks\Desktop\Uppgift3\dist\SASS.a3262d41.webp133521194954292027 0
 78C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\packager-css\package.json133518372260558479 0
 84C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\packager-css\src\CSSPackager.js133518372259731058 0
 84C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\packager-css\lib\CSSPackager.js133518372258638385 0
@@ -7080,7 +7087,7 @@
 91C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\core\lib\requests\ValidationRequest.js133518372277495777 0
 70C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\core\src\utils.js133518372277401859 0
 75C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\core\src\Validation.js133518372277470620 0
-47C:\Users\eriks\Desktop\Uppgift3\dist\index.html133519446276253814 0
+47C:\Users\eriks\Desktop\Uppgift3\dist\index.html133521199961602115 0
 71C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\core\src\worker.js133518372277566967 0
 86C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\core\src\requests\AssetRequest.js133518372269818925 0
 87C:\Users\eriks\Desktop\Uppgift3\node_modules\@parcel\core\src\requests\DevDepRequest.js133518372272901703 0
@@ -7229,23 +7236,33 @@
 54C:\Users\eriks\Desktop\Uppgift3\node_modules\.bin\sass133518376809385714 0
 58C:\Users\eriks\Desktop\Uppgift3\node_modules\.bin\svgo.cmd133518372385322785 0
 76C:\Users\eriks\Desktop\Uppgift3\node_modules\.bin\update-browserslist-db.ps1133518372385478872 0
-52C:\Users\eriks\Desktop\Uppgift3\dist\7.1d47cd27.jpeg133519444994518550 0
+52C:\Users\eriks\Desktop\Uppgift3\dist\7.1d47cd27.jpeg133521194954221631 0
 52C:\Users\eriks\Desktop\Uppgift3\dist\7.56e7234f.webp133518423334834331 0
-52C:\Users\eriks\Desktop\Uppgift3\dist\7.6dbec746.webp133519444994674813 0
-52C:\Users\eriks\Desktop\Uppgift3\dist\7.9bece37c.avif133519444994518550 0
+52C:\Users\eriks\Desktop\Uppgift3\dist\7.6dbec746.webp133521194954561067 0
+52C:\Users\eriks\Desktop\Uppgift3\dist\7.9bece37c.avif133521194954249128 0
 52C:\Users\eriks\Desktop\Uppgift3\dist\7.b62ee651.avif133518497129314189 0
 52C:\Users\eriks\Desktop\Uppgift3\dist\7.cf99adf4.jpeg133519446265613626 0
 52C:\Users\eriks\Desktop\Uppgift3\dist\7.d779384e.avif133518496481220051 0
 52C:\Users\eriks\Desktop\Uppgift3\dist\8.080c8362.jpeg133518423334943358 0
 52C:\Users\eriks\Desktop\Uppgift3\dist\8.275b1802.avif133518423334834331 0
-54C:\Users\eriks\Desktop\Uppgift3\dist\index.18dbc454.js133519444994435587 0
+54C:\Users\eriks\Desktop\Uppgift3\dist\index.18dbc454.js133521194954364010 0
+66C:\Users\eriks\Desktop\Uppgift3\dist\index.18dbc454.js.map.2596.3i133519509165958708 0
 54C:\Users\eriks\Desktop\Uppgift3\dist\index.8e356c2d.js133519446276253814 0
 58C:\Users\eriks\Desktop\Uppgift3\dist\index.8e356c2d.js.map133519446276321459 0
-59C:\Users\eriks\Desktop\Uppgift3\dist\index.b10d73a7.css.map133519444994674813 0
-57C:\Users\eriks\Desktop\Uppgift3\dist\sass.1ca36dc7.js.map133519444994518550 0
-46C:\Users\eriks\Desktop\Uppgift3\dist\sass.html133519446276203831 0
+59C:\Users\eriks\Desktop\Uppgift3\dist\index.b10d73a7.css.map133521199143872519 0
+54C:\Users\eriks\Desktop\Uppgift3\dist\SASS.03b83f77.png133521199954926340 0
+55C:\Users\eriks\Desktop\Uppgift3\dist\SASS.095aa698.webp133521181345299908 0
+57C:\Users\eriks\Desktop\Uppgift3\dist\sass.1ca36dc7.js.map133521143498721868 0
+65C:\Users\eriks\Desktop\Uppgift3\dist\sass.1ca36dc7.js.map.2596.3j133519509165970936 0
+54C:\Users\eriks\Desktop\Uppgift3\dist\SASS.a42471c0.png133521181345299908 0
+55C:\Users\eriks\Desktop\Uppgift3\dist\SASS.c08e5a04.avif133521194954156712 0
+54C:\Users\eriks\Desktop\Uppgift3\dist\SASS.c4cc7636.png133521194954249128 0
+54C:\Users\eriks\Desktop\Uppgift3\dist\SASS.c7d80f7b.png133521199954926340 0
+54C:\Users\eriks\Desktop\Uppgift3\dist\SASS.f4ba10a2.png133521194954561067 0
+46C:\Users\eriks\Desktop\Uppgift3\dist\sass.html133521199961602115 0
+54C:\Users\eriks\Desktop\Uppgift3\dist\sass.html.2596.3k133519509165982576 0
 60C:\Users\eriks\Desktop\Uppgift3\dist\Vandring2.3d9c752d.avif133519446264446930 0
-60C:\Users\eriks\Desktop\Uppgift3\dist\Vandring2.507ead85.avif133519444994518550 0
-60C:\Users\eriks\Desktop\Uppgift3\dist\Vandring2.980fa6fb.webp133519444994518550 0
-60C:\Users\eriks\Desktop\Uppgift3\dist\Vandring2.bb723a9d.jpeg133519444994674813 0
+60C:\Users\eriks\Desktop\Uppgift3\dist\Vandring2.507ead85.avif133521194954292027 0
+60C:\Users\eriks\Desktop\Uppgift3\dist\Vandring2.980fa6fb.webp133521194954249128 0
+60C:\Users\eriks\Desktop\Uppgift3\dist\Vandring2.bb723a9d.jpeg133521194954561067 0
 60C:\Users\eriks\Desktop\Uppgift3\dist\Vandring2.e4c9aa66.avif133518497129577729 0
