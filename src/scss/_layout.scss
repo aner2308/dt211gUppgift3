@@ -233,4 +233,36 @@ footer a {
         animation: fadeIn 4s 2s both;
     }
 
+    .square {
+        width: 200px;
+        height: 200px;
+        background-color: #333;
+        margin: 20 auto;
+    }
+    
+    .square p{
+        display: block;
+        margin: 70px auto;
+        padding: 10px;
+        text-align: center;
+        font-size: 1.6em;
+        color: #ddd;
+    }
+
+    #square1 {
+        background-color: blueviolet;
+    }
+
+    #square1:hover {
+        animation: förstora 1s 0s ease-in alternate both;
+    } 
+
+    #square2 {
+        background-color: rgb(76, 103, 21);
+    }
+
+    #square2:hover {
+        animation: flipme 2s 0s ease-in-out 1;
+    }
+
 }
