@@ -1,4 +1,5 @@
 @use "component";
+@use "keyframes";
 
 $background-color: #eaeaea;
 $orange-color: #cc6600;
@@ -207,6 +208,29 @@ footer a {
             margin-bottom: 30px;
             margin-top: 30px;
         }
+    }
+
+}
+
+#grid2 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto;
+    width: 60%;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 20px;
+    @include component.boxshadow();
+
+    .fadein{
+        grid-area: 1 / 1 / 2 / 3;
+        @include component.rubrikstorlek(2);
+        color: lighten($color: $orange-color, $amount: 10%);
+        text-shadow: 1px 1px 1px #33333372;
+        text-align: center;
+        margin: 10px 10px;
+        margin-top: 50px;
+        animation: fadeIn 4s 2s both;
     }
 
 }

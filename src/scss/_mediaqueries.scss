@@ -22,11 +22,19 @@
         width: 80%;
     }
 
+    #grid2 {
+        width: 80%;
+    }
+
 }
 
 @media screen and (max-width: 400px) {
 
     #picture-grid {
+        width: 90%;
+    }
+
+    #grid2 {
         width: 90%;
     }
 
