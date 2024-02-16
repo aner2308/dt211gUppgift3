@@ -13,7 +13,6 @@ $link-primary-darkmode: darken($color: $link-primary, $amount: 10%);
 $link-hover-darkmode: darken($color: $orange-color, $amount: 10%);
 $link-hover-bg-darkmode: darken($color: $link-primary, $amount: 10%);
 
-
 body {
     background-color: $background-color;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -262,7 +261,11 @@ footer a {
     }
 
     #square2:hover {
-        animation: flipme 2s 0s ease-in-out 1;
+        cursor: pointer;
+    } 
+
+    .flipme {
+        animation: flipme 2s 0s normal ease-in-out 1;
     }
 
     #square3 {

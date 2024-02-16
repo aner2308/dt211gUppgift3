@@ -1,4 +1,4 @@
-7274
+7278
 64C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\src\images133521180104874464 1
 91C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\csso\lib\clean\Atrule.js133518372271970552 0
 85C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\csso\cjs\index.cjs133518372268637102 0
@@ -35,8 +35,8 @@
 91C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\abortcontroller-polyfill133518372265819154 1
 121C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\simple-swizzle\node_modules\is-arrayish\yarn-error.log133518423270697209 0
 95C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\sharp\install\can-compile.js133518423271694449 0
-75C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\animeringar.html133525476430514289 0
-58C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist133525476430595319 1
+75C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\animeringar.html133525500496915304 0
+58C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist133525500497123252 1
 107C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\utility-types\dist\functional-helpers.js133518372259213632 0
 76C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@mischnic133518372239747192 1
 102C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\source-map\dist\source-map.debug.js133518372267885960 0
@@ -51,7 +51,7 @@
 64C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\.gitignore133518374396327993 0
 109C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\core\src\serializerCore.browser.js133518372276709475 0
 104C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\caniuse-lite\data\features\gamepad.js133518372280959396 0
-74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\src\animeringar.html133525464883148278 0
+74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\src\animeringar.html133525494219521809 0
 107C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\csso\node_modules\mdn-data\l10n\index.js133518372261332994 0
 118C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1133518372268231174 0
 95C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\utils\src\urlJoin.js133518372273720752 0
@@ -162,7 +162,7 @@
 87C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\svgo\lib\svgo\coa.js133518372268723566 0
 130C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\stringifier.js133518372273223902 0
 120C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@swc\helpers\src\_class_static_private_method_get.mjs133518372280723591 0
-75C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\src\scss\_layout.scss133525474666206654 0
+75C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\src\scss\_layout.scss133525500290507724 0
 99C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\msgpackr\dist\unpack-no-eval.cjs133518372262299685 0
 97C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\msgpackr\dist\index.min.js.map133518372270637398 0
 117C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\transformer-babel\src\remapAstLocations.js133518372266637319 0
@@ -180,7 +180,7 @@
 80C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\tslib\modules133518372264715992 1
 105C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\css-tree\lib\syntax\node\MediaQuery.js133518372278244115 0
 107C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\utils\src\generateCertificate.js133518372268058522 0
-68C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\src\js\main.js133518402285863100 0
+68C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\src\js\main.js133525497867832868 0
 117C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@swc\helpers\esm\_iterable_to_array_limit_loose.js133518372276553210 0
 123C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE133518372264223949 0
 108C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\reporter-dev-server\src\Server.js133518372262127146 0
@@ -954,7 +954,7 @@
 104C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\csso\node_modules\css-tree\lib\parser133518372278716316 1
 111C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\utility-types\dist\functional-helpers.js.map133518372263636575 0
 94C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\utility-types\dist\index.js133518372260133884 0
-77C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\SASS.a3262d41.webp133525468922755363 0
+77C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\SASS.a3262d41.webp133525494537021469 0
 95C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\readable-stream\lib\internal133518423270873442 1
 98C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\utility-types\dist\index.js.map133518372264223949 0
 109C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\svgo\plugins\removeAttributesBySelector.js133518372272726586 0
@@ -1650,7 +1650,7 @@
 94C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\css-select\lib\esm\index.js133518372265819154 0
 94C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\graph\src\BitSet.js133518372263814745 0
 96C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\source-map-js\source-map.d.ts133518372266723332 0
-74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\7.1d47cd27.jpeg133525468922755363 0
+74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\7.1d47cd27.jpeg133525494536865894 0
 94C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\source-map-js\lib\base64.js133518372260053740 0
 87C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\csso\lib\restructure133518372274570714 1
 119C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\react-refresh\cjs\react-refresh-babel.development.js133518372259483462 0
@@ -1674,7 +1674,7 @@
 107C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\dom-serializer\node_modules\entities\lib133518372267242907 1
 142C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\cleanupEnableBackground.js133518372264715992 0
 130C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc\orcexecutor.h133117882010000000 0
-82C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\Vandring2.bb723a9d.jpeg133525468923012005 0
+82C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\Vandring2.bb723a9d.jpeg133525494537259936 0
 120C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\runtime-js\src\helpers\browser\wasm-loader.js133518372270637398 0
 103C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\node-addon-api\tools\clang-format.js133518372266048331 0
 99C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\github-from-package\package.json133518423269801457 0
@@ -2169,6 +2169,7 @@
 78C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\js-yaml\bin133518372265732936 1
 130C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\entities.h133117882010000000 0
 126C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\hash.h133117882010000000 0
+77C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.dc18fc31.css133525500496915304 0
 130C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\HTMLtree.h133117882010000000 0
 125C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\README.md133518372276494765 0
 90C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\braces\lib\constants.js133518372262445749 0
@@ -2844,7 +2845,7 @@
 133C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftgxval.h133117882010000000 0
 98C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\caniuse-lite\data\regions\MS.js133518372284139379 0
 133C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftimage.h133117882010000000 0
-69C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.html133525476430514289 0
+69C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.html133525500496915304 0
 134C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftincrem.h133117882010000000 0
 97C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\mdn-data\css\units.schema.json133518372269212249 0
 99C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@mischnic\json-sourcemap\LICENSE133518372257525824 0
@@ -3572,6 +3573,7 @@
 112C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\css-select\lib\pseudo-selectors\subselects.js133518372268231174 0
 112C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\runtime-js\src\helpers\cacheLoader.js133518372263555329 0
 79C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\lmdb\LICENSE133518372266048331 0
+76C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.39ae973c.js133525500496915304 0
 84C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\lmdb\node_modules133518372239975282 1
 79C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\lmdb\open.js133518372276216915 0
 83C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\lmdb\SECURITY.md133518372276709475 0
@@ -4961,7 +4963,7 @@
 96C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@swc\helpers\cjs\_extends.cjs133518372271137206 0
 117C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\css-select\node_modules\domutils\lib\legacy.js.map133518372269887564 0
 119C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\css-select\node_modules\domutils\lib\manipulation.js133518372265034700 0
-68C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\sass.html133525476430514289 0
+68C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\sass.html133525500496915304 0
 149C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-last-of-type.js133518372274570714 0
 121C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\css-select\node_modules\domutils\lib\querying.d.ts.map133518372270493202 0
 115C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\css-select\node_modules\domutils\lib\querying.js133518372265553449 0
@@ -6007,7 +6009,7 @@
 96C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@swc\helpers\scripts\build.js133518372277495777 0
 97C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@swc\helpers\scripts\errors.js133518372277553957 0
 105C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@swc\helpers\esm\_apply_decs_2203_r.js133518372274637404 0
-76C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\SASS.f4ba10a2.png133525468923012005 0
+76C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\SASS.f4ba10a2.png133525494537259936 0
 107C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@swc\helpers\esm\_array_like_to_array.js133518372274729608 0
 146C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133518372271970552 0
 104C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@swc\helpers\esm\_array_with_holes.js133518372274729608 0
@@ -7150,7 +7152,7 @@
 109C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\config-default\test\config.test.js133518372259382907 0
 93C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\compressor-raw\lib133518372258371644 1
 102C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\compressor-raw\package.json133518372260402855 0
-74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\7.9bece37c.avif133525468922855569 0
+74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\7.9bece37c.avif133525494536784617 0
 92C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\codeframe\LICENSE133518372257525824 0
 97C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\codeframe\package.json133518372269212249 0
 88C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\@parcel\codeframe\src133518372268901841 1
@@ -7234,7 +7236,7 @@
 95C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\.bin\download-lmdb-prebuilds133518372385322785 0
 79C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\.bin\js-yaml133518372385322785 0
 83C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\.bin\js-yaml.ps1133518372385322785 0
-76C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.18dbc454.js133525468923012005 0
+76C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.18dbc454.js133525497868235850 0
 77C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\.bin\json5133518372385322785 0
 104C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\.bin\node-gyp-build-optional-packages133518372385322785 0
 117C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd133518372385322785 0
@@ -7250,26 +7252,28 @@
 98C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\node_modules\.bin\update-browserslist-db.ps1133518372385478872 0
 74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\7.56e7234f.webp133518423334834331 0
 74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\7.5fd06a96.avif133525449688504338 0
-74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\7.6dbec746.webp133525468923012005 0
+74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\7.6dbec746.webp133525494537259936 0
 74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\7.b62ee651.avif133518497129314189 0
 74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\7.d779384e.avif133518496481220051 0
 74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\8.080c8362.jpeg133518423334943358 0
 74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\8.275b1802.avif133518423334834331 0
 74C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\8.865561d2.avif133518424101446052 0
 77C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.0cd05ee4.css133521199961602115 0
-80C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.18dbc454.js.map133525468923012005 0
+80C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.18dbc454.js.map133525497868363370 0
 88C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.18dbc454.js.map.2596.3i133519509165958708 0
-77C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.b10d73a7.css133525474667878535 0
-81C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.b10d73a7.css.map133525474667878535 0
+80C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.39ae973c.js.map133525500497123252 0
+77C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.b10d73a7.css133525500292594446 0
+81C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.b10d73a7.css.map133525500292594446 0
+81C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\index.dc18fc31.css.map133525500497123252 0
 76C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\SASS.03b83f77.png133525449688411820 0
 79C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\sass.1ca36dc7.js.map133521143498721868 0
 87C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\sass.1ca36dc7.js.map.2596.3j133519509165970936 0
 77C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\SASS.64900588.avif133525449682461413 0
-77C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\SASS.c08e5a04.avif133525468922755363 0
-76C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\SASS.c4cc7636.png133525468922855569 0
+77C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\SASS.c08e5a04.avif133525494536784617 0
+76C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\SASS.c4cc7636.png133525494536865894 0
 79C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\Uppgift3.59712999.js133518375614782593 0
 83C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\Uppgift3.59712999.js.map133518375614782593 0
 82C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\Vandring2.320b42df.jpeg133525449682590417 0
 82C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\Vandring2.3d9c752d.avif133525449682407941 0
-82C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\Vandring2.507ead85.avif133525468922855569 0
-82C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\Vandring2.980fa6fb.webp133525468922855569 0
+82C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\Vandring2.507ead85.avif133525494537021469 0
+82C:\Users\eriks\Desktop\Skola\Termin 2\dt211g\Uppgift3\dist\Vandring2.980fa6fb.webp133525494536784617 0
