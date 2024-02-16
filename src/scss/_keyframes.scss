@@ -8,13 +8,59 @@
 }
 
 @keyframes förstora {
-    100% {
+    30% {
         transform: scale(1.1, 1.1);
+        box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+    }
+    60% {
+        transform: scale(1.1, 1.1);
+        box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+    }
+    100% {
+        transform: scale(1, 1);
+        box-shadow: none;
     }
 }
 
 @keyframes flipme {
     100% {
         transform: rotateX(360deg);
+    }
+}
+
+@keyframes spinme {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes colorchange {
+    25% {
+        background-color: rgb(126, 0, 0);
+        border-bottom-left-radius: 40%;
+        border-bottom-right-radius: 25%;
+        border-top-right-radius: 10%;
+        border-top-left-radius: 25%;
+    }
+    50% {
+        background-color: rgb(93, 86, 0);
+        border-bottom-left-radius: 25%;
+        border-bottom-right-radius: 40%;
+        border-top-right-radius: 25%;
+        border-top-left-radius: 10%;
+    }
+    75% {
+        background-color: rgb(31, 115, 0);
+        border-bottom-left-radius: 10%;
+        border-bottom-right-radius: 25%;
+        border-top-right-radius: 40%;
+        border-top-left-radius: 25%;
+    }
+    100% {
+        background-color: rgb(0, 51, 99);
+        border-bottom-left-radius: 25%;
+        border-bottom-right-radius: 10%;
+        border-top-right-radius: 25%;
+        border-top-left-radius: 40%;
     }
 }

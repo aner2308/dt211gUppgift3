@@ -230,7 +230,7 @@ footer a {
         text-align: center;
         margin: 10px 10px;
         margin-top: 50px;
-        animation: fadeIn 4s 2s both;
+        animation: fadeIn 4s 0s both;
     }
 
     .square {
@@ -254,7 +254,7 @@ footer a {
     }
 
     #square1:hover {
-        animation: förstora 1s 0s ease-in alternate both;
+        animation: förstora 3s 0s ease-in-out alternate both;
     } 
 
     #square2 {
@@ -263,6 +263,21 @@ footer a {
 
     #square2:hover {
         animation: flipme 2s 0s ease-in-out 1;
+    }
+
+    #square3 {
+        background-color: rgb(126, 55, 119);
+        animation: spinme 5s 0s infinite alternate ease-in-out;
+        border-radius: 40%;
+    }
+
+    #square4 {
+        background-color: rgb(0, 51, 99);
+        border-bottom-left-radius: 25%;
+        border-bottom-right-radius: 10%;
+        border-top-right-radius: 25%;
+        border-top-left-radius: 40%;
+        animation: colorchange 4s 1s normal infinite linear;
     }
 
 }
