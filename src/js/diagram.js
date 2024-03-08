@@ -33,18 +33,43 @@ async function init() {
         new Chart("barChart", {
             type: "bar",
             data: {
-                labels: courseNameArray,
                 datasets: [{
-                    backgroundColor: pieColors,
-                    data: applicantArray
+                    label: [courseNameArray[0]], // Label for the first bar
+                    backgroundColor: barColors[0], // Color for the first bar
+                    data: [applicantArray[0]] // Data for the first bar
+                }, {
+                    label: [courseNameArray[1]], // Label for the second bar
+                    backgroundColor: barColors[1], // Color for the second bar
+                    data: [applicantArray[1]] // Data for the second bar
+                }, {
+                    label: [courseNameArray[2]], // Label for the third bar
+                    backgroundColor: barColors[2], // Color for the third bar
+                    data: [applicantArray[2]] // Data for the third bar
+                }, {
+                    label: [courseNameArray[3]], // Label for the fourth bar
+                    backgroundColor: barColors[3], // Color for the fourth bar
+                    data: [applicantArray[3]] // Data for the fourth bar
+                }, {
+                    label: [courseNameArray[4]], // Label for the fifth bar
+                    backgroundColor: barColors[4], // Color for the fifth bar
+                    data: [applicantArray[4]] // Data for the fifth bar
+                }, {
+                    label: [courseNameArray[5]], // Label for the sixth bar
+                    backgroundColor: barColors[5], // Color for the sixth bar
+                    data: [applicantArray[5]] // Data for the sixth bar
                 }]
             },
             options: {
-                legend: { display: false },
+                responsive: true,
+                maintainAspectRatio: true,
+                legend: {
+                    display: true,
+                    position: 'right'
+                }, // Display the legend
                 title: {
                     display: true,
                     text: "De mest populära kurserna HT2023"
-                }
+                },
             }
         });
 
@@ -53,12 +78,17 @@ async function init() {
             data: {
                 labels: ProgramNameArray,
                 datasets: [{
-                    backgroundColor: barColors,
+                    backgroundColor: pieColors,
                     data: applicantArrayPrograms
                 }]
             },
             options: {
-                legend: { display: false },
+                responsive: true,
+                maintainAspectRatio: true,
+                legend: {
+                    display: true,
+                    position: 'left'
+                },
                 title: {
                     display: true,
                     text: "De mest populära programmen HT2023"
@@ -66,7 +96,10 @@ async function init() {
             }
         });
 
+
+
     } catch (error) {
         console.error('Error:', error);
     }
 }
+
