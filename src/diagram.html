@@ -5,9 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="scss/main.scss">
-    <title>Startsida</title>
-    <script src="js/main.js" type="module"></script>
+    <title>Diagram</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js">
+    </script>
     <script src="https://kit.fontawesome.com/df020c5b10.js" crossorigin="anonymous"></script>
+    <script src="js/main.js" type="module"></script>
+    <script src="js/diagram.js" type="module"></script>
 </head>
 
 <body>
@@ -35,7 +38,13 @@
         </div>
     </header>
 
-    
+    <main>
+        <div id="diagramContainer">
+            <canvas id="barChart" style="width:100%;max-width:700px;"></canvas>
+            <canvas id="pieChart" style="width:100%;max-width:700px;"></canvas>
+        </div>
+    </main>
+
     <footer>
         <p>Författare: Anton Eriksson</p>
         <a href="mailto:aner2308@student.miun.se">
