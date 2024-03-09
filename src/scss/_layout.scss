@@ -290,17 +290,128 @@ footer a {
     grid-template-columns: 100%;
     grid-template-rows: auto;
     width: 80%;
-    padding: 50px;
     margin: auto;
     margin-top: 20px;
     @include component.boxshadow();
 
+    #barTitle {
+        grid-area: 1 / 1 / 2 / 2; 
+        margin-top: 50px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    
     #barChart {
-        grid-area: 1 / 1 / 2 / 2;
+        grid-area: 2 / 1 / 3 / 2;
+    }
+
+    #label1 {
+        grid-area: 3 / 1 / 4 / 2;
+    }
+
+    #pieTitle {
+        grid-area: 4 / 1 / 5 / 2; 
+        margin-top: 150px;
+        margin-bottom: 20px;
+        text-align: center;
     }
 
     #pieChart {
+        grid-area: 5 / 1 / 6 / 2;
+    }
+
+    #label2 {
+        grid-area: 6 / 1 / 7 / 2;
+    }
+}
+
+.gridLabels {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 50px auto;
+    grid-template-rows: auto;
+
+    .color1 {
+        background-color: red;
+        width: 30px;
+        height: 30px;
+        grid-area: 1 / 1 / 2 / 2;
+        margin: auto;
+    }
+
+    .text1 {
+        grid-area: 1 / 2 / 2 / 3;
+        text-align: left;
+        margin: none;
+    }
+
+    .color2 {
+        background-color: orange;
+        width: 30px;
+        height: 30px;
         grid-area: 2 / 1 / 3 / 2;
-        margin-top: 100px;
+        margin: auto;
+    }
+
+    .text2 {
+        grid-area: 2 / 2 / 3 / 3;
+        text-align: left;
+        margin: none;
+    }
+
+    .color3 {
+        background-color: yellow;
+        width: 30px;
+        height: 30px;
+        grid-area: 3 / 1 / 4 / 2;
+        margin: auto;
+    }
+
+    .text3 {
+        grid-area: 3 / 2 / 4 / 3;
+        text-align: left;
+        margin: none;
+    }
+
+    .color4 {
+        background-color: green;
+        width: 30px;
+        height: 30px;
+        grid-area: 4 / 1 / 5 / 2;
+        margin: auto;
+    }
+
+    .text4 {
+        grid-area: 4 / 2 / 5 / 3;
+        text-align: left;
+        margin: none;
+    }
+
+    .color5 {
+        background-color: blue;
+        width: 30px;
+        height: 30px;
+        grid-area: 5 / 1 / 6 / 2;
+        margin: auto;
+    }
+
+    .text5 {
+        grid-area: 5 / 2 / 6 / 3;
+        text-align: left;
+        margin: none;
+    }
+
+    .color6 {
+        background-color: purple;
+        width: 30px;
+        height: 30px;
+        grid-area: 6 / 1 / 7 / 2;
+        margin: auto;
+    }
+
+    .text6 {
+        grid-area: 6 / 2 / 7 / 3;
+        text-align: left;
+        margin: none;
     }
 }

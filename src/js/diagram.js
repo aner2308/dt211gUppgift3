@@ -3,6 +3,18 @@
 const url = 'https://studenter.miun.se/~mallar/dt211g/';
 window.onload = init();
 
+let kurs1El = document.getElementById('kurs1');
+let kurs2El = document.getElementById('kurs2');
+let kurs3El = document.getElementById('kurs3');
+let kurs4El = document.getElementById('kurs4');
+let kurs5El = document.getElementById('kurs5');
+let kurs6El = document.getElementById('kurs6');
+
+let program1El = document.getElementById('program1');
+let program2El = document.getElementById('program2');
+let program3El = document.getElementById('program3');
+let program4El = document.getElementById('program4');
+let program5El = document.getElementById('program5');
 
 async function init() {
     try {
@@ -29,6 +41,20 @@ async function init() {
         // Färger på tabellerna
         let barColors = ["red", "orange", "yellow", "green", "blue", "purple"];
         let pieColors = ["red", "orange", "yellow", "green", "blue"]
+
+        kurs1El.innerHTML = courseNameArray[0];
+        kurs2El.innerHTML = courseNameArray[1];
+        kurs3El.innerHTML = courseNameArray[2];
+        kurs4El.innerHTML = courseNameArray[3];
+        kurs5El.innerHTML = courseNameArray[4];
+        kurs6El.innerHTML = courseNameArray[5];
+
+        program1El.innerHTML = ProgramNameArray[0];
+        program2El.innerHTML = ProgramNameArray[1];
+        program3El.innerHTML = ProgramNameArray[2];
+        program4El.innerHTML = ProgramNameArray[3];
+        program5El.innerHTML = ProgramNameArray[4];
+
 
         new Chart("barChart", {
             type: "bar",
@@ -63,11 +89,17 @@ async function init() {
                 responsive: true,
                 maintainAspectRatio: true,
                 legend: {
-                    display: true,
-                    position: 'right'
+                    display: false,
+                    position: 'bottom',
+                    labels: {
+                        fontSize: 18,
+                        fontColor: 'black'
+                    }
                 }, // Display the legend
                 title: {
-                    display: true,
+                    display: false,
+                    fontSize: 24,
+                    fontColor: 'black',
                     text: "De mest populära kurserna HT2023"
                 },
             }
@@ -86,11 +118,18 @@ async function init() {
                 responsive: true,
                 maintainAspectRatio: true,
                 legend: {
-                    display: true,
-                    position: 'left'
+                    display: false,
+                    position: 'bottom',
+                    allign: 'start',
+                    labels: {
+                        fontSize: 18,
+                        fontColor: 'black'
+                    }
                 },
                 title: {
-                    display: true,
+                    display: false,
+                    fontSize: 24,
+                    fontColor: 'black',
                     text: "De mest populära programmen HT2023"
                 }
             }
