@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="scss/main.scss">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
+    <title>Karta</title>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+    <script src="js/main.js" type="module"></script>
+    <script src="js/map.js" type="module"></script>
+    <script src="https://kit.fontawesome.com/df020c5b10.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header>
+        <div class="topnav" id="myTopnav">
+            <a href="karta.html">Karta</a>
+            <a href="diagram.html">Diagram</a>
+            <a href="animeringar.html">Animeringar</a>
+            <a href="sass.html">SASS</a>
+            <a href="index.html">Startsida</a>
+            <button class="icon" id="open-menu">
+                <span><i class="fa-solid fa-bars"></i></span>
+            </button>
+        </div>
+
+        <div class="sidenav" id="mySidenav">
+            <button class="icon" id="close-menu">
+                <span><i class="fa-solid fa-xmark"></i></span>
+            </button>
+            <a href="index.html">Startsida</a>
+            <a href="sass.html">SASS</a>
+            <a href="animeringar.html">Animeringar</a>
+            <a href="diagram.html">Diagram</a>
+            <a href="karta.html">Karta</a>
+        </div>
+    </header>
+
+    <h1 class="överskrift2">Karta</h1>
+
+    <div id="buttons">
+        <input type="text" id="searchInput" placeholder="Skriv in en plats">
+        <button id="searchBtn">Sök</button>
+        <button id="userLocationBtn">Hämta min plats</button>
+    </div>
+
+    <div id="map"></div>
+
+    <h1 class="överskrift2">Om kartan</h1>
+    <p class="brödtextKarta">Kartans position startar på MIUN
+        i Sundsvall. Om du har platskännedom påslagen så kan du trycka på knappen "Hämta min plats" för att fästa
+        kartnålen på din position.</p>
+    <p class="brödtextKarta">Använd sökrutan på kartans översta vänstra hörn för att söka på den adressen du är ute
+        efter.
+    </p>
+    <p class="brödtextKarta">Vid klick på kartan så öppnas en popup-ruta med adressen och koordinaterna för positionen man klickat på. Detta kan vara hjälpsamt om man ser något intressant på kartan och vill hitta dit.
+    </p>
+    <footer>
+        <p>Författare: Anton Eriksson</p>
+        <a href="mailto:aner2308@student.miun.se">
+            <span><i class="fa-regular fa-envelope"></i></span>
+            <span>aner2308@student.miun.se</span>
+        </a>
+    </footer>
+
+</body>

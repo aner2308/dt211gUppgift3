@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="scss/main.scss">
+    <title>Diagram</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
+    <script src="https://kit.fontawesome.com/df020c5b10.js" crossorigin="anonymous"></script>
+    <script src="js/main.js" type="module"></script>
+    <script src="js/diagram.js" type="module"></script>
+</head>
+
+<body>
+    <header>
+        <div class="topnav" id="myTopnav">
+            <a href="karta.html">Karta</a>
+            <a href="diagram.html">Diagram</a>
+            <a href="animeringar.html">Animeringar</a>
+            <a href="sass.html">SASS</a>
+            <a href="index.html">Startsida</a>
+            <button class="icon" id="open-menu">
+                <span><i class="fa-solid fa-bars"></i></span>
+            </button>
+        </div>
+
+        <div class="sidenav" id="mySidenav">
+            <button class="icon" id="close-menu">
+                <span><i class="fa-solid fa-xmark"></i></span>
+            </button>
+            <a href="index.html">Startsida</a>
+            <a href="sass.html">SASS</a>
+            <a href="animeringar.html">Animeringar</a>
+            <a href="diagram.html">Diagram</a>
+            <a href="karta.html">Karta</a>
+        </div>
+    </header>
+
+    <main>
+        <h2 class="överskrift2">Mina diagram</h2>
+        <div id="diagramContainer">
+            <h2 id="barTitle">De mest populära kurserna HT2023</h2>
+            <canvas id="barChart"></canvas>
+            <div class="gridLabels" id="labels1">
+                <div class="color1"></div><p class="text1" id="kurs1"></p>
+                <div class="color2"></div><p class="text2" id="kurs2"></p>
+                <div class="color3"></div><p class="text3" id="kurs3"></p>
+                <div class="color4"></div><p class="text4" id="kurs4"></p>
+                <div class="color5"></div><p class="text5" id="kurs5"></p>
+                <div class="color6"></div><p class="text6" id="kurs6"></p>
+            </div>
+
+            <h2 id="pieTitle">De mest populära programmen HT2023</h2>
+            <canvas id="pieChart"></canvas>
+            <div class="gridLabels" id="labels2">
+                <div class="color1"></div><p class="text1" id="program1"></p>
+                <div class="color2"></div><p class="text2" id="program2"></p>
+                <div class="color3"></div><p class="text3" id="program3"></p>
+                <div class="color4"></div><p class="text4" id="program4"></p>
+                <div class="color5"></div><p class="text5" id="program5"></p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>Författare: Anton Eriksson</p>
+        <a href="mailto:aner2308@student.miun.se">
+            <span><i class="fa-regular fa-envelope"></i></span>
+            <span>aner2308@student.miun.se</span>
+        </a>
+    </footer>
+
+</body>

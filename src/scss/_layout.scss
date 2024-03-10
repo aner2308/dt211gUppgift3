@@ -129,6 +129,7 @@ footer a {
     cursor: pointer;
 }
 
+
 #picture-grid {
     display: grid;
     grid-template-columns: 100%;
@@ -221,7 +222,7 @@ footer a {
     margin-top: 20px;
     @include component.boxshadow();
 
-    .fadein{
+    .fadein {
         grid-area: 1 / 1 / 2 / 3;
         @include component.rubrikstorlek(2);
         color: lighten($color: $orange-color, $amount: 10%);
@@ -238,8 +239,8 @@ footer a {
         background-color: #333;
         margin: 20 auto;
     }
-    
-    .square p{
+
+    .square p {
         display: block;
         margin: 70px auto;
         padding: 10px;
@@ -254,7 +255,7 @@ footer a {
 
     #square1:hover {
         animation: förstora 3s 0s ease-in-out alternate both;
-    } 
+    }
 
     #square2 {
         background-color: rgb(76, 103, 21);
@@ -262,7 +263,7 @@ footer a {
 
     #square2:hover {
         cursor: pointer;
-    } 
+    }
 
     .flipme {
         animation: flipme 2s 0s normal ease-in-out 1;
@@ -281,6 +282,188 @@ footer a {
         border-top-right-radius: 25%;
         border-top-left-radius: 40%;
         animation: colorchange 4s 1s normal infinite linear;
+    }
+
+}
+
+#diagramContainer {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: auto;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    @include component.boxshadow();
+
+    #barTitle {
+        grid-area: 1 / 1 / 2 / 2;
+        margin-top: 50px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    #barChart {
+        grid-area: 2 / 1 / 3 / 2;
+    }
+
+    #label1 {
+        grid-area: 3 / 1 / 4 / 2;
+    }
+
+    #pieTitle {
+        grid-area: 4 / 1 / 5 / 2;
+        margin-top: 150px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    #pieChart {
+        grid-area: 5 / 1 / 6 / 2;
+    }
+
+    #label2 {
+        grid-area: 6 / 1 / 7 / 2;
+    }
+}
+
+.gridLabels {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 50px auto;
+    grid-template-rows: auto;
+
+    .color1 {
+        background-color: red;
+        width: 30px;
+        height: 30px;
+        grid-area: 1 / 1 / 2 / 2;
+        margin: auto;
+    }
+
+    .text1 {
+        grid-area: 1 / 2 / 2 / 3;
+        text-align: left;
+        margin: none;
+    }
+
+    .color2 {
+        background-color: orange;
+        width: 30px;
+        height: 30px;
+        grid-area: 2 / 1 / 3 / 2;
+        margin: auto;
+    }
+
+    .text2 {
+        grid-area: 2 / 2 / 3 / 3;
+        text-align: left;
+        margin: none;
+    }
+
+    .color3 {
+        background-color: yellow;
+        width: 30px;
+        height: 30px;
+        grid-area: 3 / 1 / 4 / 2;
+        margin: auto;
+    }
+
+    .text3 {
+        grid-area: 3 / 2 / 4 / 3;
+        text-align: left;
+        margin: none;
+    }
+
+    .color4 {
+        background-color: green;
+        width: 30px;
+        height: 30px;
+        grid-area: 4 / 1 / 5 / 2;
+        margin: auto;
+    }
+
+    .text4 {
+        grid-area: 4 / 2 / 5 / 3;
+        text-align: left;
+        margin: none;
+    }
+
+    .color5 {
+        background-color: blue;
+        width: 30px;
+        height: 30px;
+        grid-area: 5 / 1 / 6 / 2;
+        margin: auto;
+    }
+
+    .text5 {
+        grid-area: 5 / 2 / 6 / 3;
+        text-align: left;
+        margin: none;
+    }
+
+    .color6 {
+        background-color: purple;
+        width: 30px;
+        height: 30px;
+        grid-area: 6 / 1 / 7 / 2;
+        margin: auto;
+    }
+
+    .text6 {
+        grid-area: 6 / 2 / 7 / 3;
+        text-align: left;
+        margin: none;
+    }
+}
+
+.överskrift2 {
+    @include component.rubrikstorlek(2);
+    color: lighten($color: $orange-color, $amount: 10%);
+    text-shadow: 1px 1px 1px #33333372;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.brödtextKarta {
+    width: 50%;
+    max-width: 500px;
+    color: darken($color: $orange-color, $amount: 10%);
+    margin: auto;
+    margin-bottom: 50px;
+    line-height: 2em;
+}
+
+#map {
+    height: 30vw;
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: $orange-color;
+    z-index: 1;
+}
+
+#buttons {
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+
+    #searchBtn {
+        width: 50px;
+        height: 30px;
+    }
+
+    #searchInput {
+        height: 24px;
+    }
+
+    #userLocationBtn {
+        height: 30px;
+        float: right;
     }
 
 }
