@@ -30,6 +30,11 @@
         width: 90%;
     }
 
+    #map {
+        height: 50vh;
+        width: 80vw;
+    }
+
 }
 
 @media screen and (max-width: 400px) {
@@ -49,7 +54,14 @@
     #diagramContainer {
         width: 100%;
     }
+
+    #map {
+        height: 100vw;
+        width: 95vw;
+    }
 }
+
+
 
 @media (prefers-color-scheme: dark) {
     body {
