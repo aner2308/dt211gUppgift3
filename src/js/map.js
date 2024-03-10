@@ -1,6 +1,6 @@
 'use strict';
 
-let map = L.map('map');
+let map = L.map('map').setView([62.3935925, 17.2819301], 13);
 
 // Funktion för att starta på användarens plats
 function UserLocation(position) {

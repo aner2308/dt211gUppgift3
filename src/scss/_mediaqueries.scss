@@ -35,6 +35,11 @@
         width: 80vw;
     }
 
+    .brödtextKarta {
+        width: 70%;
+        max-width: 500px;
+    }
+
 }
 
 @media screen and (max-width: 400px) {
@@ -58,6 +63,12 @@
     #map {
         height: 100vw;
         width: 95vw;
+    }
+
+    .brödtextKarta {
+        width: 90%;
+        font-size: 0.8em;
+        line-height: 1.8em;
     }
 }
 
