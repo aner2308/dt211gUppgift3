@@ -40,6 +40,34 @@
         max-width: 500px;
     }
 
+    #buttons {
+        width: 80vw;
+    }
+
+}
+
+@media screen and (max-width: 500px) {
+    #buttons {
+        width: 80vw;
+
+        #searchBtn {
+            width: 50px;
+            height: 30px;
+            margin-bottom: 5px;
+        }
+
+        #searchInput {
+            height: 24px;
+            margin-bottom: 5px;
+        }
+
+        #userLocationBtn {
+            height: 30px;
+            float: none;
+            margin-bottom: 5px;
+        }
+
+    }
 }
 
 @media screen and (max-width: 400px) {
@@ -62,13 +90,17 @@
 
     #map {
         height: 100vw;
-        width: 95vw;
+        width: 90vw;
     }
 
     .brödtextKarta {
         width: 90%;
         font-size: 0.8em;
         line-height: 1.8em;
+    }
+
+    #buttons {
+        width: 90vw;
     }
 }
 

@@ -13,7 +13,7 @@
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
     <script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
     <script src="js/main.js" type="module"></script>
-    <script src="js/map.js" type="module"></script>
+    <script src="js/map2.js" type="module"></script>
     <script src="https://kit.fontawesome.com/df020c5b10.js" crossorigin="anonymous"></script>
 </head>
 
@@ -41,11 +41,23 @@
             <a href="karta.html">Karta</a>
         </div>
     </header>
-
+    
     <h1 class="överskrift2">Karta</h1>
-    <p class="brödtextKarta">Om du har platskännedom påslagen så är kartnålen på din position. Annars startar du på MIUN i Sundsvall.</p>
-    <p class="brödtextKarta">Använd sökrutan på kartans översta högra hörn för att söka på den adressen du är ute efter.</p>
+
+    <div id="buttons">
+        <input type="text" id="searchInput" placeholder="Skriv in en plats">
+        <button id="searchBtn">Sök</button>
+        <button id="userLocationBtn">Hämta min plats</button>
+    </div>
+
     <div id="map"></div>
+
+    <h1 class="överskrift2">Om kartan</h1>
+    <p class="brödtextKarta">Kartans position startar på MIUN
+        i Sundsvall. Om du har platskännedom påslagen så kan du trycka på knappen "Hämta min plats" för att fästa
+        kartnålen på din position.</p>
+    <p class="brödtextKarta">Använd sökrutan på kartans översta vänstra hörn för att söka på den adressen du är ute efter.
+    </p>
 
     <footer>
         <p>Författare: Anton Eriksson</p>

@@ -129,22 +129,6 @@ footer a {
     cursor: pointer;
 }
 
-.överskrift2 {
-    @include component.rubrikstorlek(2);
-    color: lighten($color: $orange-color, $amount: 10%);
-    text-shadow: 1px 1px 1px #33333372;
-    text-align: center;
-    margin-top: 50px;
-}
-
-.brödtextKarta {
-    width: 50%;
-    max-width: 500px;
-    color: darken($color: $orange-color, $amount: 10%);
-    margin: auto;
-    margin-bottom: 0;
-    line-height: 2em;
-}
 
 #picture-grid {
     display: grid;
@@ -433,15 +417,53 @@ footer a {
     }
 }
 
+.överskrift2 {
+    @include component.rubrikstorlek(2);
+    color: lighten($color: $orange-color, $amount: 10%);
+    text-shadow: 1px 1px 1px #33333372;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.brödtextKarta {
+    width: 50%;
+    max-width: 500px;
+    color: darken($color: $orange-color, $amount: 10%);
+    margin: auto;
+    margin-bottom: 50px;
+    line-height: 2em;
+}
+
 #map {
     height: 30vw;
     width: 50vw;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 100px;
+    margin-top: 10px;
     margin-bottom: 100px;
     border-style: solid;
     border-width: 3px;
     border-color: $orange-color;
     z-index: 1;
+}
+
+#buttons {
+    width: 50vw;
+    margin-left: auto;
+    margin-right: auto;
+
+    #searchBtn {
+        width: 50px;
+        height: 30px;
+    }
+
+    #searchInput {
+        height: 24px;
+    }
+
+    #userLocationBtn {
+        height: 30px;
+        float: right;
+    }
+
 }
